@@ -1,4 +1,5 @@
-# Flash
+# Flashrom 
+
 Interface Gráfica para o Comando Flashrom - Programa em Shell Script
 
 Devido a grande dificuldade principalmente em usuários iniciantes no linux em utilizar o Comando FLASHROM no terminal e a falta de interface gráfica para o mesmo, Obitive a ideia de criar uma interface gráfica  utilizando shell script. 
